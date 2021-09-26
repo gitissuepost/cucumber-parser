@@ -17,7 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 Feature: Visit career guide page in career.guru99.com
-
+@Gotcha
   Scenario: Visit career.guru99.com
     Given I am on career.guru99.com
     		|a|b|c|
